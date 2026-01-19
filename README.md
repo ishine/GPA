@@ -3,7 +3,7 @@
 
 # GPA: One Model for Speech Recognition, Text-to-Speech, and Voice Conversion
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2601.10770-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2601.10770) [![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://autoark.github.io/GPA/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow?style=for-the-badge)](https://huggingface.co/AutoArk-AI/GPA) [![Interactive Demo](https://img.shields.io/badge/🎮%20Interactive%20Demo-Coming%20Soon-blue?style=for-the-badge)](https://demo.autoark.com) [![ModelScope](https://img.shields.io/badge/🤖%20ModelScope-Models-purple?style=for-the-badge)](https://www.modelscope.cn/models/AutoArk/GPA)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2601.10770-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2601.10770) [![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://autoark.github.io/GPA/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow?style=for-the-badge)](https://huggingface.co/AutoArk-AI/GPA) [![Interactive Demo](https://img.shields.io/badge/🎮%20Interactive%20Demo-Try%20It!-blue?style=for-the-badge)](https://huggingface.co/spaces/AutoArk-AI/GPA_DEMO) [![ModelScope](https://img.shields.io/badge/🤖%20ModelScope-Models-purple?style=for-the-badge)](https://www.modelscope.cn/models/AutoArk/GPA)
 
 </div>
 
