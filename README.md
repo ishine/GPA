@@ -11,6 +11,19 @@
 
 > If you find GPA useful, a ⭐ helps support the project.
 
+<details open>
+<summary><strong>📢 Announcements</strong></summary>
+
+<div style="max-height: 100px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; margin-top: 8px;">
+
+- 🔄 **2026.01.29: Updated the roadmap:** Our next release will be **GPA-v1.5-0.6B**! It includes incremental improvements in ASR robustness. The previously planned standalone GPA-0.3B full release is no longer scheduled.
+
+- 📌 **2026.1.17: Initial GPA release.**
+
+</div>
+
+</details>
+
 ## 📖 Abstract
 
 **GPA** stands for **General Purpose Audio**. 
@@ -43,7 +56,7 @@ Similarly, our GPA model unifies the three major pillars of audio tasks—Text-t
 | Basic Service Deployment (vLLM/FastAPI) | ✅ |
 | Paper (ArXiv) | ✅ |
 | **Model Releases** | **GPA-0.3B-preview** (Edge-focused) | ✅ |
-| | **GPA-0.3B** (Edge-focused) | ⬜ |
+| | **GPA-v1.5-0.6B** (Edge-focused) | ⬜ |
 | **Edge Deployment** | Android Platform | ⬜ |
 | | RK Series | ⬜ |
 | | IOS Platform | ⬜ |
@@ -127,7 +140,7 @@ Before running inference, please download the model checkpoints from Hugging Fac
 | Model | Hugging Face | ModelScope |
 | :--- | :---: | :---: |
 | **GPA-0.3B-preview** | [Download](https://huggingface.co/AutoArk-AI/GPA) | [Download](https://www.modelscope.cn/models/AutoArk/GPA) |
-| **GPA-0.3B** | Coming Soon | Coming Soon |
+| **GPA-v1.5-0.6B** | Coming Soon | Coming Soon |
 
 > **Important**: After downloading the checkpoints, please verify that your model directory structure matches the hierarchy below. 
 
